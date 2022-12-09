@@ -1,0 +1,64 @@
+D:\Manhã\PCI\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+E:\Manhã\PCI\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+E:\Manhã\PCI\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+E:\Manhã\PCI\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+E:\Manhã\PCI\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+E:\Manhã\PCI\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+E:\Manhã\PCI\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+E:\Manhã\PCI\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+E:\Manhã\PCI\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+E:\Manhã\PCI\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+D:\Manhã\PCI\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+D:\Manhã\PCI\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+D:\Manhã\PCI\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+D:\Manhã\PCI\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\Manhã\PCI\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+D:\Manhã\PCI\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.Cache
+D:\Manhã\PCI\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Login.resources
+D:\Manhã\PCI\Biblioteca\Biblioteca\obj\Debug\Biblioteca.MeusEmprestimos.resources
+D:\Manhã\PCI\Biblioteca\Biblioteca\obj\Debug\Biblioteca.TelaInicial.resources
+D:\Manhã\PCI\Biblioteca\Biblioteca\bin\Debug\MySql.Data.dll
+C:\Users\Thais Garcia\Documents\Projeto - biblioteca\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Thais Garcia\Documents\Projeto - biblioteca\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Thais Garcia\Documents\Projeto - biblioteca\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Thais Garcia\Documents\Projeto - biblioteca\Biblioteca\Biblioteca\bin\Debug\MySql.Data.dll
+C:\Users\Thais Garcia\Documents\Projeto - biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Thais Garcia\Documents\Projeto - biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.AreaBibliotecario.resources
+C:\Users\Thais Garcia\Documents\Projeto - biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Login.resources
+C:\Users\Thais Garcia\Documents\Projeto - biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.MeusEmprestimos.resources
+C:\Users\Thais Garcia\Documents\Projeto - biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\Thais Garcia\Documents\Projeto - biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.TelaInicial.resources
+C:\Users\Thais Garcia\Documents\Projeto - biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Users\Thais Garcia\Documents\Projeto - biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Thais Garcia\Documents\Projeto - biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CopyComplete
+C:\Users\Thais Garcia\Documents\Projeto - biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Thais Garcia\Documents\Projeto - biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+D:\Manhã\PCI\Biblioteca\Biblioteca\obj\Debug\Biblioteca.AreaBibliotecario.resources
+E:\Manhã\PCI\Biblioteca\Biblioteca\bin\Debug\MySql.Data.dll
+E:\Manhã\PCI\Biblioteca\Biblioteca\obj\Debug\Biblioteca.AreaBibliotecario.resources
+E:\Manhã\PCI\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Login.resources
+E:\Manhã\PCI\Biblioteca\Biblioteca\obj\Debug\Biblioteca.MeusEmprestimos.resources
+E:\Manhã\PCI\Biblioteca\Biblioteca\obj\Debug\Biblioteca.TelaInicial.resources
+E:\Manhã\PCI\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CopyComplete
+D:\Manhã\PCI\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+E:\Manhã\PCI\Biblioteca\Biblioteca\bin\Debug\BouncyCastle.Crypto.dll
+E:\Manhã\PCI\Biblioteca\Biblioteca\bin\Debug\itextsharp.dll
+E:\Manhã\PCI\Biblioteca\Biblioteca\bin\Debug\itextsharp.xml
+C:\Users\Thais Garcia\Downloads\Biblioteca\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Thais Garcia\Downloads\Biblioteca\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+C:\Users\Thais Garcia\Downloads\Biblioteca\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Thais Garcia\Downloads\Biblioteca\Biblioteca\Biblioteca\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Thais Garcia\Downloads\Biblioteca\Biblioteca\Biblioteca\bin\Debug\itextsharp.dll
+C:\Users\Thais Garcia\Downloads\Biblioteca\Biblioteca\Biblioteca\bin\Debug\MySql.Data.dll
+C:\Users\Thais Garcia\Downloads\Biblioteca\Biblioteca\Biblioteca\bin\Debug\itextsharp.xml
+C:\Users\Thais Garcia\Downloads\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\Thais Garcia\Downloads\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.AreaBibliotecario.resources
+C:\Users\Thais Garcia\Downloads\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Login.resources
+C:\Users\Thais Garcia\Downloads\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.MeusEmprestimos.resources
+C:\Users\Thais Garcia\Downloads\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+C:\Users\Thais Garcia\Downloads\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.TelaInicial.resources
+C:\Users\Thais Garcia\Downloads\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+C:\Users\Thais Garcia\Downloads\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Thais Garcia\Downloads\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CopyComplete
+C:\Users\Thais Garcia\Downloads\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Thais Garcia\Downloads\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
